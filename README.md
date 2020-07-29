@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Carolina, I'm from Brazil (🇧🇷). I started my journey in software development at the beginning of this year! :octocat:
+
+
+
 <!--
 **carolinabranquinho/carolinabranquinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
