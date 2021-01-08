@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Carolina, I'm from Brazil (🇧🇷). I started my journey in software development at the beginning of this year! :octocat:
+My name is Carolina, I'm from Brazil (🇧🇷). I started my journey in software development at the beginning of 2020! :octocat:
 
 Would you like to find me?
 
