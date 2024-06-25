@@ -4,7 +4,7 @@ My name is Carolina, I'm from Brazil (🇧🇷). I started my journey in softwar
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-alves-branquinho-6176a8193/)](https://www.linkedin.com/in/carolina-alves-branquinho-6176a8193/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-branquinho/)](https://www.linkedin.com/in/carolina-branquinho/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carol.a.branquinho@gmail.com)](mailto:carol.a.branquinho@gmail.com)
 
 
